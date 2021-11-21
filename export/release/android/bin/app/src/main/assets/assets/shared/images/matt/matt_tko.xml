@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="matt_tko.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Matt Tko Down0000" x="0" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0001" x="0" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0002" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0003" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0004" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0005" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0006" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0007" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0008" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0009" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0010" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0011" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0012" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Down0013" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt Tko Idle0000" x="916" y="0" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0001" x="916" y="0" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0002" x="1361" y="0" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0003" x="1361" y="0" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0004" x="0" y="451" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0005" x="0" y="451" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0006" x="445" y="451" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0007" x="445" y="451" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0008" x="445" y="451" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0009" x="445" y="451" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0010" x="445" y="451" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0011" x="445" y="451" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0012" x="445" y="451" width="445" height="451"/>
+	<SubTexture name="Matt Tko Idle0013" x="445" y="451" width="445" height="451"/>
+	<SubTexture name="Matt Tko Left0000" x="890" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0001" x="890" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0002" x="1372" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0003" x="1372" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0004" x="1372" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0005" x="1372" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0006" x="1372" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0007" x="1372" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0008" x="1372" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0009" x="1372" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0010" x="1372" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0011" x="1372" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Left0012" x="1372" y="451" width="482" height="424"/>
+	<SubTexture name="Matt Tko Right0000" x="0" y="902" width="492" height="424" frameX="0" frameY="-3" frameWidth="492" frameHeight="427"/>
+	<SubTexture name="Matt Tko Right0001" x="0" y="902" width="492" height="424" frameX="0" frameY="-3" frameWidth="492" frameHeight="427"/>
+	<SubTexture name="Matt Tko Right0002" x="492" y="902" width="492" height="427"/>
+	<SubTexture name="Matt Tko Right0003" x="492" y="902" width="492" height="427"/>
+	<SubTexture name="Matt Tko Right0004" x="492" y="902" width="492" height="427"/>
+	<SubTexture name="Matt Tko Right0005" x="492" y="902" width="492" height="427"/>
+	<SubTexture name="Matt Tko Right0006" x="492" y="902" width="492" height="427"/>
+	<SubTexture name="Matt Tko Right0007" x="492" y="902" width="492" height="427"/>
+	<SubTexture name="Matt Tko Right0008" x="492" y="902" width="492" height="427"/>
+	<SubTexture name="Matt Tko Right0009" x="492" y="902" width="492" height="427"/>
+	<SubTexture name="Matt Tko Right0010" x="492" y="902" width="492" height="427"/>
+	<SubTexture name="Matt Tko Right0011" x="492" y="902" width="492" height="427"/>
+	<SubTexture name="Matt Tko Right0012" x="492" y="902" width="492" height="427"/>
+	<SubTexture name="Matt Tko Up0000" x="440" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0001" x="440" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0002" x="862" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0003" x="862" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0004" x="862" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0005" x="862" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0006" x="862" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0007" x="862" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0008" x="862" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0009" x="862" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0010" x="862" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0011" x="862" y="2270" width="422" height="462"/>
+	<SubTexture name="Matt Tko Up0012" x="862" y="2270" width="422" height="462"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+
+			case 'gf':
+				portraitRight.visible = false;
+				portraitLeft.visible = false;
+				if (!portraitGF.visible)
+				{
+					portraitGF.visible = true;
+					portraitGF.animation.play('enter');
+				}

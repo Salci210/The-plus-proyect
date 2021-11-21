@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skyn1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sky down0000" x="1370" y="0" width="518" height="643"/>
+	<SubTexture name="sky down0001" x="1370" y="0" width="518" height="643"/>
+	<SubTexture name="sky down0002" x="1370" y="643" width="518" height="643"/>
+	<SubTexture name="sky down0003" x="1370" y="643" width="518" height="643"/>
+	<SubTexture name="sky left0000" x="0" y="0" width="685" height="643"/>
+	<SubTexture name="sky left0001" x="0" y="0" width="685" height="643"/>
+	<SubTexture name="sky left0002" x="685" y="0" width="685" height="643"/>
+	<SubTexture name="sky left0003" x="685" y="0" width="685" height="643"/>
+	<SubTexture name="sky right0000" x="0" y="643" width="685" height="643"/>
+	<SubTexture name="sky right0001" x="0" y="643" width="685" height="643"/>
+	<SubTexture name="sky right0002" x="0" y="1286" width="685" height="643"/>
+	<SubTexture name="sky right0003" x="0" y="1286" width="685" height="643"/>
+	<SubTexture name="sky up0000" x="685" y="643" width="685" height="643"/>
+	<SubTexture name="sky up0001" x="685" y="643" width="685" height="643"/>
+	<SubTexture name="sky up0002" x="685" y="1286" width="685" height="643"/>
+	<SubTexture name="sky up0003" x="685" y="1286" width="685" height="643"/>
+</TextureAtlas>
